@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m a passionate physicist with a strong backgro
 ## 📫 How to Reach Me...
 
 - **Email:** [syedhaider.ali2021453@gmail.com](mailto:syedhaider.ali2021453@gmail.com)
-- **LinkedIn:** [Syed Haider Ali](https://www.linkedin.com/in/syedhaiderali)
+- **LinkedIn:** [Syed Haider Ali](https://www.linkedin.com/in/syed-haider-ali-h)
   
 Feel free to reach out if you want to discuss potential collaborations, share ideas, or simply talk about physics and AI!
 
